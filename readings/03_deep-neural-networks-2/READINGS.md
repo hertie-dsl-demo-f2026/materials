@@ -2,4 +2,7 @@
 
 ## Required Readings
 
-- Ng, A., *CS229 Lecture Notes*, Stanford. Sections on backpropagation. PDF below.
+- Ng, A. & Ma, T., *CS229 Lecture Notes*, Stanford. Sections on backpropagation.
+  Read online: <https://cs229.stanford.edu/main_notes.pdf>
+
+*This is a public repository, so copyrighted readings are cited rather than redistributed.*
