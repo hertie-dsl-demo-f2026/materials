@@ -1,4 +1,4 @@
-# Deep Learning (Demo) - E1234 - syllabus (cohort edit)
+# Deep Learning (Demo) - E1234 - syllabus (course edit)
 
 ## 1. General information
 
