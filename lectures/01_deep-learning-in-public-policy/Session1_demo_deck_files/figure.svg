@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240">
+  <rect width="480" height="240" fill="#111827"/>
+  <polyline fill="none" stroke="#93c5fd" stroke-width="3" points="20,30 80,90 140,130 200,160 260,178 320,190 380,198 440,203"/>
+  <line x1="20" y1="210" x2="460" y2="210" stroke="#6b7280"/><line x1="20" y1="20" x2="20" y2="210" stroke="#6b7280"/>
+  <text x="240" y="232" fill="#9ca3af" font-size="12" text-anchor="middle">epochs</text>
+  <text x="14" y="18" fill="#9ca3af" font-size="12">loss</text>
+</svg>
